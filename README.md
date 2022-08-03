@@ -3,7 +3,7 @@
 
 ### To start / install, write this in the terminal:
 
-`pip install samosa`
+`git clone https://github.com/The-Noam/samosa`
 
 ### Then in your python file write:
 

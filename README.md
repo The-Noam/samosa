@@ -1,7 +1,7 @@
 
 # Samosa GUI package
 
-### To start / install write this in the terminal:
+### To start / install, write this in the terminal:
 
 `pip install samosa`
 

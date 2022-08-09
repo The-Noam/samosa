@@ -1,3 +1,9 @@
+#######################
+#                     #
+#   By: Noam Nahum    #
+#                     #
+#######################
+
 from cgitb import text
 from tkinter import *
 
